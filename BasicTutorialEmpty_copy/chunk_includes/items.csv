@@ -1,0 +1,9 @@
+group,item,sentence,inflection,audio,duration,singular_image,plural_image
+A,1,The fish swim in a tank which is perfectly round,plural,2fishRoundTank.mp3,2676,1fishSquareTank.png,2fishRoundTank.png
+A,2,The deer runs in a wood which is extremely dense,singular,1deerDenseWood.mp3,2650,1deerDenseWood.png,2deerSparseWood.png
+A,3,The sheep roam in a pen which is strikingly blue,plural,2sheepBluePen.mp3,2598,1sheepRedPen.png,2sheepBluePen.png
+A,4,The moose walks in a park which is visibly new,singular,1mooseNewPark.mp3,2546,1mooseNewPark.png,2mooseOldPark.png
+B,1,The fish swims in a tank which is perfectly square,singular,1fishSquareTank.mp3,2833,1fishSquareTank.png,2fishRoundTank.png
+B,2,The deer run in a wood which is extremely sparse,plural,2deerSparseWood.mp3,2650,1deerDenseWood.png,2deerSparseWood.png
+B,3,The sheep roams in a pen which is strikingly red,singular,1sheepRedPen.mp3,2755,1sheepRedPen.png,2sheepBluePen.png
+B,4,The moose walk in a park which is visibly old,plural,2mooseOldPark.mp3,2441,1mooseNewPark.png,2mooseOldPark.png

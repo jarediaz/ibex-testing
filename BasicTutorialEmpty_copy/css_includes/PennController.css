@@ -1,0 +1,5 @@
+.PennController{
+    width: 50em !important; /* the width of the content area */
+    margin-left: 50vw; /* align the left edge of the content area with the page's vertical center */
+    transform: translateX(-50%); /* and then move the content area to its left by 50% (= center it) */
+}
